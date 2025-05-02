@@ -2,12 +2,18 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 
-- 🔭 I’m currently looking for a job!
+- 🔭 Currently working as an expressjs backend developer
 
 - 🌱 I have one year experience in:
     <ul>
       <li>
         Laravel
+      </li>
+      <li>
+        Nodejs
+      </li>
+        <li>
+        Mongodb
       </li>
       <li>
         Vuejs
@@ -37,5 +43,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://leetcode.card.workers.dev/DarkSoul-?theme=dark&font=baloo&extension=null" alt="darksoulsy" /></p>
+<p><img align="left" src="https://leetcard.jacoblin.cool/DarkSoul-?theme=light&font=Yuji%20Syuku&ext=heatmap" alt="darksoulsy" /></p>
 
