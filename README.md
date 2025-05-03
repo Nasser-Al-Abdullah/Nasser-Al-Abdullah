@@ -4,7 +4,7 @@
 
 - 🔭 Currently working as an expressjs backend developer
 
-- 🌱 I have one year experience in:
+- 🌱 Two years of hand on experience with the following technologies
     <ul>
       <li>
         Laravel
